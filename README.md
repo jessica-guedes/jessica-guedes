@@ -1,11 +1,15 @@
-<img align="right" height="590em" src=""/>
+<img align="right" height="590em" src="IMG_0718.jpg"/>
+<br><br>
+<h1>Olá, sou Jéssica Guedes</h1>
 
-Olá, sou Jéssica Guedes
+- 🔭 Desenvolvedora Web
 
-- Desenvolvedora Web
-- Formada em Análise e Desenvolvimento de Sistemas
-- Tenho experiência com as tecnologias: JavaScript, TypeScript, TailwindCSS, ReactJs e NextJs...
-- Mais informações em [jessicadev](https://jessicadev.vercel.app/)
+- 📌 Formada em Análise e Desenvolvimento de Sistemas
+
+- 💜 Tenho experiência com as tecnologias: JavaScript, TypeScript, TailwindCSS, ReactJs e NextJs...
+
+- 💫 Mais informações em [jessicadev](https://jessicadev.vercel.app/)
+<br><br><br><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jessicaguedes.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jessicaa-guedes) 

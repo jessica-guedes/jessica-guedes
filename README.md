@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="IMG_0718.jpg"/>
+
 <br><br>
 <h1>Olá, sou Jéssica Guedes</h1>
 

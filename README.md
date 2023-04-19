@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="IMG_0702-Editar.jpg"/>
+<a href="https://jessicadev.vercel.app/" target="_blank"><img align="right" height="590em" src="IMG_0702-Editar.jpg"/></a>
 <br><br>
 <h1>Olá, sou Jéssica Guedes</h1>
 

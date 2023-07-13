@@ -8,7 +8,7 @@
 
 - 💜 Tenho experiência com as tecnologias: JavaScript, TypeScript, TailwindCSS, ReactJs e NextJs...
 
-- 💫 Mais informações em [jessicadev](https://jessicadev.vercel.app/)
+- 💫 Mais informações em [jessicadev]([https://jessicadev.vercel.app/](https://jessicaguedes.dev/)
 <br><br><br><br>
 
 ## 🌐 Socials:
